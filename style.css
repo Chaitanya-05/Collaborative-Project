@@ -2,3 +2,31 @@
     margin-left: 3vh;
 
 }
+#logo {
+    margin-left: 3vh;
+    margin-right: 7vh;
+}
+
+#category {
+    display: flex;
+    align-items: center; 
+}
+
+#category p {
+    margin-right: 20px; 
+    display: inline;
+    margin-left: 1vh;
+    opacity: 0.8;
+    font-weight: bold;
+}
+#sale{
+    color: rgb(235, 0, 0);
+}
+#search{
+    margin-left: 20vh;
+    opacity: 0.8;
+}
+#border{
+    margin-top: 10px;
+    border-bottom: 1px solid black;
+}
