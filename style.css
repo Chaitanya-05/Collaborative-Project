@@ -25,8 +25,21 @@
 #search{
     margin-left: 20vh;
     opacity: 0.8;
+    margin-right: 15px;
 }
 #border{
     margin-top: 10px;
     border-bottom: 1px solid black;
+}
+#last{
+    border: none;
+    padding: 11px;
+    background-color: rgb(201, 25, 25);
+    border-radius: 70px;
+    color: white;
+    font-size: 11px;
+    box-sizing: border-box;
+}
+#store{
+    font-size: 1px;
 }
