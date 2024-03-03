@@ -1,3 +1,4 @@
+/* Drawer item styles (chaitanya) */
 body{
     
         font-family: "Roboto", sans-serif;
@@ -6,6 +7,54 @@ body{
      
       
 }
+#drawer{
+   width: 94%;
+   height: auto;
+  
+   margin: 3%;
+   
+
+}
+
+#drawer-item{
+    width: 22.5%;
+   height: auto;
+   display: inline-block;
+   margin-left: 1%;
+   margin-right: 1%;
+
+}
+#col{
+  margin-right: 1%;
+  margin-left: auto;
+
+}
+#simi{
+    width: 20px;
+    height: 20px;
+}
+#img{
+    width: 100%;
+    height: auto;
+}
+
+
+#shoe-type{
+    font-weight: 300;
+    font-size: small;
+    margin-bottom: 1px;
+    display: inline-block;
+}
+#shoe-name{
+    margin-top: 4px;
+    margin-bottom: 5px;
+    font-weight: 400;
+}
+#shoe-price{
+    margin-top: 5px;
+    font-weight: 600;
+}
+
 
 
 #logo{
@@ -53,3 +102,5 @@ body{
 #store{
     font-size: 1px;
 }
+
+ 
