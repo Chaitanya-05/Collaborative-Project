@@ -148,3 +148,9 @@ body{
 #logo {
     float: right;
 }
+.inna{
+    border-right: 1px solid white;
+    margin-left: 8px;
+    margin-right: 10px;
+}
+
